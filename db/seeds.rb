@@ -13,6 +13,6 @@ end
 puts "# Seeding tasks"
 seed_task("Eat")
 seed_task("Hack")
-seed_task("Sleep ")
+seed_task("Sleep")
 seed_task("Eat")
 puts " Seeding done"
