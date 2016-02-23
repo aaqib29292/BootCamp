@@ -1,5 +1,6 @@
-@import 'bootstrap-sprockets';
-@import 'bootstrap';
-@import 'common';
-@import 'home';
-@import 'signin';
+@import 'bootstrap-sprockets',
+        'bootstrap',
+        'theme',
+        'common',
+        'home',
+        'signin';
